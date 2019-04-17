@@ -1,0 +1,6 @@
+framework module CubeEngineMessageKit {
+  umbrella header "CubeEngineMessageKit.h"
+
+  export *
+  module * { export * }
+}
